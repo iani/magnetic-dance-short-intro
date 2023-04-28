@@ -1,1 +1,71 @@
-# magnetic-dance-short-intro
+* English
+
+The present project develops ways to let dancers control the creation of sound, music and graphics from their movements.  In other words, instead of the dancers responding to sounds or interpreting music, they actually make the music through their dance.  For this purpose, the movements of the dancers are captured by sensors which they wear on their body and transmitted to a computer.  The computer then uses the data to control sound synthesis.  The rules for translating motion data to sound synthesis control are written in a programming language called SuperCollider.  This language has very powerful capabilities for describing sound synthesis and musical structures.  Thus, program code becomes a way to write music compositions and at the same time to program the way in which persons can interact with the computer to control or change how sound is produced.  In other words, program code is used as a score and also as a way to design the instruments that play the score.  It is also possible to write or change the program code while the music is playing.  This is live coding:  In live coding, the musician improvises the music by writing code.
+
+[Demo: live coding]
+
+The project which I present here develops ways to combine music improvisation through live coding with interpretation throught dance.  In other words, dancers and programming musicians create the music together live during the performance.
+
+[Examples:
+
+1. Improvisation with 2 sine waves
+https://www.youtube.com/watch?v=oJdO3XNkyGE&list=PL1yHvCYr9BvZIksv6pbV_cFfx-HQZmDE-&ab_channel=IannisZannos
+
+2. Improvisation with a chaotic algorithm controlled by 7 parameters
+https://www.youtube.com/watch?v=S6LJ83-Oomk&list=PL1yHvCYr9BvaRmqKqdk__ikIfC-ovISzY&index=7&ab_channel=IannisZannos
+
+3. Dance driving both Sound and graphics (SuperCollider and openFrameworks)
+
+https://www.youtube.com/watch?v=IKLGd-SNDXc&list=PL1yHvCYr9BvZbX2GMM1Zgfg74UH289QZV&index=5&ab_channel=IannisZannos
+]
+
+
+Furthermore, the project goes one step further in exploring the collaboration of dancers and musician/programmers:  It asks how it could become possible to create pieces that are performed and intepreted  in different locations through persons collaborating live over the internet. In other words, it explores the possibility of creating new performance art forms through internet collaborative performance. We use the term "telematic dance" to denote the live collaboration through dance and live coding over the internet.
+
+[
+Examples:
+1. Performance between Ebetsu and Corfu
+https://www.youtube.com/watch?v=liVMqIbzim0&list=PL1yHvCYr9BvZbX2GMM1Zgfg74UH289QZV&index=3&ab_channel=IannisZannos
+
+2. Performance between Lisbon and Corfu
+
+https://youtu.be/liVMqIbzim0?list=PL1yHvCYr9BvZbX2GMM1Zgfg74UH289QZV&t=866
+]
+
+Currently, we are preparing a piece which will be presented in Greece on October 20 and 21, at the festival for the Cultural Capital of Europe in Elevsis.  The piece is inspired by the Noh play "Izutsu" (written by Zeami Motokiyo). It tries to draw a parallel between the myth of Izutsu and the Hellenistic/Latin myth of Narcissus and Echo, from a poem of Ovid's "Metamorphoses".  Our objective is to discover parallels between Japanese and Western cultures, through classical mythology and art forms, and to and creatively interpret them in the context of contemporary life.
+
+* 日本語
+
+本プロジェクトでは、ダンサーが自分の動きから音や音楽、グラフィックを作り出すことをコントロールする方法を開発しています。 つまり、ダンサーが音に反応したり、音楽を解釈したりするのではなく、実際にダンスで音楽を作るのである。 そのために、ダンサーが体につけたセンサーで動きをとらえ、コンピューターに送ります。 コンピュータはそのデータをもとに、音の合成を制御する。 モーションデータを合成音に変換するためのルールは、SuperColliderというプログラミング言語で書かれている。 この言語は、音の合成や音楽の構造を記述するための非常に強力な機能を備えています。 このように、プログラムコードは楽曲を書くための手段であると同時に、人がコンピュータと対話し、音の出し方を制御・変更する方法をプログラムするための手段でもある。 つまり、プログラムコードは楽譜として使われると同時に、楽譜を演奏する楽器を設計する方法としても使われるのです。 また、音楽が演奏されている最中にプログラムコードを書いたり、変更したりすることも可能です。 これがライブコーディングです：  ライブコーディングでは、音楽家はコードを書くことによって音楽を即興で演奏します。
+
+[Demo: live coding]
+
+
+今回紹介するプロジェクトは、ライブコーディングによる音楽の即興と、ダンスによる解釈を組み合わせる方法を開発しています。 つまり、ダンサーとプログラミング・ミュージシャンが、パフォーマンス中にライブで一緒に音楽を創り上げるのです。
+
+(例)
+
+1. 2つの正弦波による即興演奏
+https://www.youtube.com/watch?v=oJdO3XNkyGE&list=PL1yHvCYr9BvZIksv6pbV_cFfx-HQZmDE-&ab_channel=IannisZannos
+
+2. 7つのパラメータで制御されたカオスアルゴリズムによる即興演奏
+https://www.youtube.com/watch?v=S6LJ83-Oomk&list=PL1yHvCYr9BvaRmqKqdk__ikIfC-ovISzY&index=7&ab_channel=IannisZannos
+
+3. サウンドとグラフィックの両方をドライブするダンス（SuperColliderとopenFrameworks）。
+
+https://www.youtube.com/watch?v=IKLGd-SNDXc&list=PL1yHvCYr9BvZbX2GMM1Zgfg74UH289QZV&index=5&ab_channel=IannisZannos
+]
+
+さらに、このプロジェクトでは、ダンサーと音楽家・プログラマーのコラボレーションを一歩進めています：  インターネットを介したライブ・コラボレーションによって、さまざまな場所で演奏され、解釈される作品を創り出すことができるのではないか。つまり、インターネットを介したコラボレーション・パフォーマンスによって、新しいパフォーマンス・アートが生まれる可能性を探っているのです。インターネットを介したダンスとライブコーディングによるライブコラボレーションを「テレマティックダンス」という言葉で表現しています。
+
+[
+例
+1. 江別-コルフ間公演
+https://www.youtube.com/watch?v=liVMqIbzim0&list=PL1yHvCYr9BvZbX2GMM1Zgfg74UH289QZV&index=3&ab_channel=IannisZannos
+
+2. リスボン-コルフ間のパフォーマンス
+
+https://youtu.be/liVMqIbzim0?list=PL1yHvCYr9BvZbX2GMM1Zgfg74UH289QZV&t=866
+]
+
+現在、10月20日、21日にギリシャのエレビスで開催される欧州文化首都フェスティバルで発表する作品を準備中です。 この作品は、能の「井筒」（世阿弥元清作）にインスパイアされています。井筒の神話と、ヘレニズム／ラテン語の神話であるナルキッソスとエコー（オヴィッドの「変身」の一節）の間に、並列性を持たせようとするものである。 私たちの目的は、古典的な神話や芸術形式を通して、日本と西洋の文化の類似性を発見し、現代の生活の文脈でそれらを創造的に解釈することです。
